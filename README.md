@@ -4,7 +4,7 @@ A credit review of CoreWeave, Inc. built from its SEC filings, **as of August 13
 
 **The question:** can a company growing this fast service the debt that funds the growth?
 
-📄 **[2-page credit memo (PDF)](CoreWeave%20Credit%20Memo.pdf)** · 📊 **[Model (Excel)](CoreWeave%20Credit%20Model.xlsx)**
+📄 **[Credit memo (PDF)](CoreWeave%20Credit%20Memo.pdf)** · 📊 **[Model (Excel)](CoreWeave%20Credit%20Model.xlsx)**
 
 ## Key findings
 
